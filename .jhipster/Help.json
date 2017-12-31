@@ -1,0 +1,16 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "entry",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20171231012159",
+    "dto": "mapstruct",
+    "service": "no",
+    "entityTableName": "help",
+    "jpaMetamodelFiltering": false,
+    "pagination": "no"
+}
